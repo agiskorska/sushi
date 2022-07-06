@@ -1,0 +1,17 @@
+.card-text {
+    white-space: wrap; 
+    height: 200px; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+.link-primary {
+    color: black;
+    font-weight: bold;
+}
+
+i {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
